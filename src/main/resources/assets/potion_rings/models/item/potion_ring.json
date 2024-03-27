@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "potion_rings:item/ring_band",
+    "layer1": "potion_rings:item/ring_gem"
+  }
+}

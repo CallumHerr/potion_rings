@@ -1,0 +1,20 @@
+{
+  "potion_rings.item.enchanted_ring": "Enchanted Ring",
+
+  "potion_rings.item.ring_of_fire_resistance": "Ring of Fire Resistance",
+  "potion_rings.item.ring_of_regeneration": "Ring of Regeneration",
+  "potion_rings.item.ring_of_strength": "Ring of Strength",
+  "potion_rings.item.ring_of_speed": "Ring of Swiftness",
+  "potion_rings.item.ring_of_night_vision": "Ring of Night Vision",
+  "potion_rings.item.ring_of_invisibility": "Ring of Invisibility",
+  "potion_rings.item.ring_of_water_breathing": "Ring of Water Breathing",
+  "potion_rings.item.ring_of_jump_boost": "Ring of Leaping",
+  "potion_rings.item.ring_of_slow_falling": "Ring of Slow Falling",
+  "potion_rings.item.ring_of_luck": "Ring of Luck",
+
+  "potion_rings.item.ring_of_poison": "Ring of Poison",
+  "potion_rings.item.ring_of_weakness": "Ring of Weakness",
+  "potion_rings.item.ring_of_slowness": "Ring of Slowness",
+
+  "item_group.potion_rings.rings": "Alchemical Rings"
+}
